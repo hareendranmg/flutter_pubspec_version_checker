@@ -22,7 +22,7 @@ This Python script helps Flutter developers keep their projects up-to-date by ch
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/flutter_pubspec_version_checker.git
+   git clone https://github.com/hareendranmg/flutter_pubspec_version_checker.git
    cd flutter_pubspec_version_checker
    ```
 
